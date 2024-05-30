@@ -19,7 +19,7 @@ layout: "single-simple"
 <div class="row">
 
 <div class="col-sm-3 mb-2">
-    <img src="/publication/publication.png">
+    <img src="/hugo-sewing-demo/publication/publication.png">
 </div>
 
 <div class="col-sm-9 mb-2 align-self-end">
@@ -28,7 +28,7 @@ layout: "single-simple"
 <u>Author</u>, Author, Author, Author, Author\
 *Journal*, year\
 <a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">DOI</a>
-<a href="/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
+<a href="/hugo-sewing-demo/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
 </div>
 </div>
 <br> <This  is used to create a line break>
@@ -38,7 +38,7 @@ layout: "single-simple"
 <div class="row">
 
 <div class="col-sm-3 mb-2">
-    <img src="/publication/publication.png">
+    <img src="/hugo-sewing-demo/publication/publication.png">
 </div>
 
 <div class="col-sm-9 mb-2 align-self-end">
@@ -47,7 +47,7 @@ layout: "single-simple"
 Author, <u>Author</u>, Author\
 *Journal*, year\
 <a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">DOI</a>
-<a href="/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
+<a href="/hugo-sewing-demo/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
 <a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">Data</a>
 </div>
 </div>
@@ -58,7 +58,7 @@ Author, <u>Author</u>, Author\
 <div class="row">
 
 <div class="col-sm-3 mb-2">
-    <img src="/publication/publication.png">
+    <img src="/hugo-sewing-demo/publication/publication.png">
 </div>
 
 <div class="col-sm-9 mb-2 align-self-end">
@@ -67,7 +67,7 @@ Author, <u>Author</u>, Author\
 <u>Author</u>, Author, Author, Author, Author\
 *Journal*, year\
 <a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">DOI</a>
-<a href="/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
+<a href="/hugo-sewing-demo/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
 </div>
 </div>
 <br> <This  is used to create a line break>
@@ -77,7 +77,7 @@ Author, <u>Author</u>, Author\
 <div class="row">
 
 <div class="col-sm-3 mb-2">
-    <img src="/publication/publication.png">
+    <img src="/hugo-sewing-demo/publication/publication.png">
 </div>
 
 <div class="col-sm-9 mb-2 align-self-end">
@@ -86,7 +86,7 @@ Author, <u>Author</u>, Author\
 Author, <u>Author</u>, Author\
 *Journal*, year\
 <a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">DOI</a>
-<a href="/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
+<a href="/hugo-sewing-demo/publication/publication.pdf" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">PDF</a>
 <a href="https://github.com" class="btn btn-sm btn-outline-dark z-depth-0" role="button" target="_blank">Data</a>
 </div>
 </div>

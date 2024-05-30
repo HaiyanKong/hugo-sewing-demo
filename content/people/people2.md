@@ -3,7 +3,7 @@ draft: false
 order: 2
 title: "People name"
 subtitle: "Position"
-image: /people/people.png
+image: /hugo-sewing-demo/people/people.png
 email: "mailto:example@example.com"
 website: https://github.com/
 file: none

@@ -3,10 +3,10 @@ draft: false
 order: 1
 title: "Project name"
 subtitle: "Brief introduction of project"
-image: /project/project.png
+image: /hugo-sewing-demo/project/project.png
 email: none
 website: https://github.com/
-file: /project/project.pdf
+file: /hugo-sewing-demo/project/project.pdf
 code: https://github.com/
 data: none
 orcid: none

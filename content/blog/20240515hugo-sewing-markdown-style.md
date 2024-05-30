@@ -95,6 +95,6 @@ for (let i = 0; i < 5; i++){
 
 ## Images
 
-{{<figure src="/blog/hugo-sewing3.jpg" title="Title" caption="Caption" width="500">}}
+{{<figure src="/hugo-sewing-demo/blog/hugo-sewing3.jpg" title="Title" caption="Caption" width="500">}}
 
 [^1]: [Reference](https://hugo-ht.vercel.app/cn/2021/01/07/first-post-cn/)

@@ -152,7 +152,7 @@ Suprise!
 - 1 usage
 
 ```
-{< imgloop "/blog/hugo-sewing3.jpg,/blog/hugo-sewing2.jpg,/blog/hugo-sewing1.jpg" >}
+{< imgloop "/hugo-sewing-demo/blog/hugo-sewing3.jpg,/hugo-sewing-demo/blog/hugo-sewing2.jpg,/hugo-sewing-demo/blog/hugo-sewing1.jpg" >}
 
 // please use double {{ }}
 ```
@@ -160,14 +160,14 @@ Suprise!
 - 2 showing
 
 
-{{< imgloop "/blog/hugo-sewing3.jpg,/blog/hugo-sewing2.jpg,/blog/hugo-sewing1.jpg" >}}
+{{< imgloop "/hugo-sewing-demo/blog/hugo-sewing3.jpg,/hugo-sewing-demo/blog/hugo-sewing2.jpg,/hugo-sewing-demo/blog/hugo-sewing1.jpg" >}}
 
 ## Gallery
 
 ### 1 usage
 
 ```
-<gallery>![name1](/blog/hugo-sewing1.jpg)![name2](/blog/hugo-sewing2.jpg)![name3](/blog/hugo-sewing3.jpg)</gallery> // markdown
+<gallery>![name1](/hugo-sewing-demo/blog/hugo-sewing1.jpg)![name2](/hugo-sewing-demo/blog/hugo-sewing2.jpg)![name3](/hugo-sewing-demo/blog/hugo-sewing3.jpg)</gallery> // markdown
 
 <gallery>
     <img src="https://haiyankong.github.io/hugo-sewing-demo/info/profile.png">
@@ -180,7 +180,7 @@ Suprise!
 
 - 2.1 markdown
 
-<gallery>![name1](/blog/hugo-sewing1.jpg)![name2](/blog/hugo-sewing2.jpg)![name3](/blog/hugo-sewing3.jpg)</gallery>
+<gallery>![name1](/hugo-sewing-demo/blog/hugo-sewing1.jpg)![name2](/hugo-sewing-demo/blog/hugo-sewing2.jpg)![name3](/hugo-sewing-demo/blog/hugo-sewing3.jpg)</gallery>
 
 - 2.2 link
 
@@ -196,8 +196,8 @@ Suprise!
 
 - 1 usage
 ```
-{< pdf src="/blog/hugo-sewing.pdf" >}
+{< pdf src="/hugo-sewing-demo/blog/hugo-sewing.pdf" >}
 ```
 
 - 2 showing
-{{< pdf src="/blog/hugo-sewing.pdf" >}}
+{{< pdf src="/hugo-sewing-demo/blog/hugo-sewing.pdf" >}}
