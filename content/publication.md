@@ -3,7 +3,7 @@ title: "Publication"
 layout: "block-list"
 publication:
   - 
-    image: /publication/publication.png
+    image: /hugo-sewing-demo/publication/publication.png
     title: "Title title title title title title title title title title title title title title title title title"
     authors:
         - name: Author
@@ -20,12 +20,12 @@ publication:
         url: "https://github.com"
       -
         name: PDF
-        url: "/publication/publication.pdf"
+        url: "/hugo-sewing-demo/publication/publication.pdf"
       -
         name: Data
         url: "https://github.com"
   - 
-    image: /publication/publication.png
+    image: /hugo-sewing-demo/publication/publication.png
     title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum"
     authors:
         - name: Author
@@ -42,12 +42,12 @@ publication:
         url: "https://github.com"
       -
         name: PDF
-        url: "/publication/publication.pdf"
+        url: "/hugo-sewing-demo/publication/publication.pdf"
       -
         name: Data
         url: "https://github.com"
   - 
-    image: /publication/publication.png
+    image: /hugo-sewing-demo/publication/publication.png
     title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum."
     authors:
         - name: Author
@@ -64,7 +64,7 @@ publication:
         url: "https://github.com"
       -
         name: PDF
-        url: "/publication/publication.pdf"
+        url: "/hugo-sewing-demo/publication/publication.pdf"
       -
         name: Data
         url: "https://github.com"

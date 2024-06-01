@@ -6,7 +6,7 @@ title: "Project name3"
 slug: project3
 project:
   - 
-    image: /project/project.png
+    image: /hugo-sewing-demo/project/project.png
     bigtitle:
     title: "Project simple introduction"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementumLorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum."
@@ -16,7 +16,7 @@ project:
         url: "https://github.com"
       -
         name: Code
-        url: "/publication/publication.pdf"
+        url: "https://github.com"
       -
         name: Data
         url: "https://github.com"

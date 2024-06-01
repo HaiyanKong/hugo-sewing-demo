@@ -152,7 +152,7 @@ Suprise!
 - 1 usage
 
 ```
-{< imgloop "/blog/hugo-sewing3.jpg,/blog/hugo-sewing2.jpg,/blog/hugo-sewing1.jpg" >}
+{< imgloop "/hugo-sewing-demo/blog/hugo-sewing3.jpg,/hugo-sewing-demo/blog/hugo-sewing2.jpg,/hugo-sewing-demo/blog/hugo-sewing1.jpg" >}
 
 // please use double {{ }}
 ```
@@ -160,7 +160,7 @@ Suprise!
 - 2 showing
 
 
-{{< imgloop "/blog/hugo-sewing3.jpg,/blog/hugo-sewing2.jpg,/blog/hugo-sewing1.jpg" >}}
+{{< imgloop "/hugo-sewing-demo/blog/hugo-sewing3.jpg,/hugo-sewing-demo/blog/hugo-sewing2.jpg,/hugo-sewing-demo/blog/hugo-sewing1.jpg" >}}
 
 ## Gallery
 
@@ -196,8 +196,8 @@ Suprise!
 
 - 1 usage
 ```
-{< pdf src="/info/cv.pdf" >}
+{< pdf src="/hugo-sewing-demo/info/cv.pdf" >}
 ```
 
 - 2 showing
-{{< pdf src="/info/cv.pdf" >}}
+{{< pdf src="/hugo-sewing-demo/info/cv.pdf" >}}
