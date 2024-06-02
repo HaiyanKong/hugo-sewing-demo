@@ -19,11 +19,6 @@ people:
         icon: "fa-brands fa-google-scholar fa-2xl"
         color: "color: #4D90FE"
       -
-        name: researchgate
-        url: "https://www.researchgate.net"
-        icon: "fa-brands fa-researchgate fa-2xl"
-        color: "color: #33C5B4"
-      -
         name: orcid
         url: "https://orcid.org"
         icon: "fa-brands fa-orcid fa-2xl"
