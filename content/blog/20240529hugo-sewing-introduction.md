@@ -12,8 +12,6 @@ categories:
 
 ![Static Badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[Demo site](https://haiyankong.github.io/hugo-sewing-demo/)
-
 </div>
 
 Hugo-Sewing is a simple, clean, and flexible Hugo theme suitable for personal blogs, academic websites, and group websites.
@@ -42,7 +40,7 @@ This amalgamation of influences led to the name "Hugo-Sewing," symbolizing the p
 
 ## Features
 
-- Includes various shortcodes to meet diverse needs, more detais can see this [Blog](https://haiyankong.github.io/hugo-sewing-demo/blog/2024/05/hugo-sewing-shortcodes/).
+- Includes various shortcodes to meet diverse needs, more detais can see this [Blog](https://haiyankong.github.io/blog/2024/05/hugo-sewing-shortcodes/).
 - Mobile-friendly and widescreen-friendly designs.
 - Supports the integration of the [Giscus](https://giscus.app/) comment system, powered by [GitHub Discussions](https://docs.github.com/en/discussions).
 - Academic style: with publication, project, and people Page.
@@ -68,7 +66,7 @@ cp -r themes/hugo-sewing/exampleSite/* .
 ```
 hugo server -D
 ```
-Then, open `http://localhost:1313/`, then you will see the website like the [demo site](https://haiyankong.github.io/hugo-sewing-demo/).
+Then, open `http://localhost:1313/`, then you will see the website like the [demo site](https://haiyankong.github.io/).
 
 ### Submodule
 
@@ -85,7 +83,7 @@ cp -r themes/hugo-sewing/exampleSite/* .
 ```
 hugo server -D
 ```
-Then, open `http://localhost:1313/`, then you will see the website like the [demo site](https://haiyankong.github.io/hugo-sewing-demo/).
+Then, open `http://localhost:1313/`, then you will see the website like the [demo site](https://haiyankong.github.io/).
 
 #### Update with submodule
 

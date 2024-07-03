@@ -1,4 +1,4 @@
-baseURL = 'https://haiyankong.github.io/hugo-sewing-demo/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'   # will show in the Browser Tab
 theme = 'hugo-sewing'

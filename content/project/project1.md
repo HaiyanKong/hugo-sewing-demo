@@ -6,7 +6,7 @@ title: "Project name1"
 slug: project1
 project:
   - 
-    image: /hugo-sewing-demo/project/project.png
+    image: /project/project.png
     bigtitle:
     title: "Project simple introduction"
     description: |

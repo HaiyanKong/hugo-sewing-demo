@@ -152,7 +152,7 @@ Suprise!
 - 1 usage
 
 ```
-{< imgloop "/hugo-sewing-demo/blog/hugo-sewing3.jpg,/hugo-sewing-demo/blog/hugo-sewing2.jpg,/hugo-sewing-demo/blog/hugo-sewing1.jpg" >}
+{< imgloop "/blog/hugo-sewing3.jpg,/blog/hugo-sewing2.jpg,/blog/hugo-sewing1.jpg" >}
 
 // please use double {{ }}
 ```
@@ -160,19 +160,19 @@ Suprise!
 - 2 showing
 
 
-{{< imgloop "/hugo-sewing-demo/blog/hugo-sewing3.jpg,/hugo-sewing-demo/blog/hugo-sewing2.jpg,/hugo-sewing-demo/blog/hugo-sewing1.jpg" >}}
+{{< imgloop "/blog/hugo-sewing3.jpg,/blog/hugo-sewing2.jpg,/blog/hugo-sewing1.jpg" >}}
 
 ## Gallery
 
 ### 1 usage
 
 ```
-<gallery>![name1](/hugo-sewing-demo/blog/hugo-sewing1.jpg)![name2](/hugo-sewing-demo/blog/hugo-sewing2.jpg)![name3](/hugo-sewing-demo/blog/hugo-sewing3.jpg)</gallery> // markdown
+<gallery>![name1](/blog/hugo-sewing1.jpg)![name2](/blog/hugo-sewing2.jpg)![name3](/blog/hugo-sewing3.jpg)</gallery> // markdown
 
 <gallery>
-    <img src="https://haiyankong.github.io/hugo-sewing-demo/project/project.png">
-	<img src="https://haiyankong.github.io/hugo-sewing-demo/project/project.png">
-	<img src="https://haiyankong.github.io/hugo-sewing-demo/project/project.png">
+    <img src="https://haiyankong.github.io/project/project.png">
+	<img src="https://haiyankong.github.io/project/project.png">
+	<img src="https://haiyankong.github.io/project/project.png">
 </gallery> // link
 ```
 
@@ -180,14 +180,14 @@ Suprise!
 
 - 2.1 markdown
 
-<gallery>![name1](/hugo-sewing-demo/blog/hugo-sewing1.jpg)![name2](/hugo-sewing-demo/blog/hugo-sewing2.jpg)![name3](/hugo-sewing-demo/blog/hugo-sewing3.jpg)</gallery>
+<gallery>![name1](/blog/hugo-sewing1.jpg)![name2](/blog/hugo-sewing2.jpg)![name3](/blog/hugo-sewing3.jpg)</gallery>
 
 - 2.2 link
 
 <gallery>
-    <img src="https://haiyankong.github.io/hugo-sewing-demo/project/project.png">
-	<img src="https://haiyankong.github.io/hugo-sewing-demo/project/project.png">
-	<img src="https://haiyankong.github.io/hugo-sewing-demo/project/project.png">
+    <img src="https://haiyankong.github.io/project/project.png">
+	<img src="https://haiyankong.github.io/project/project.png">
+	<img src="https://haiyankong.github.io/project/project.png">
 </gallery>
 
 
@@ -196,8 +196,8 @@ Suprise!
 
 - 1 usage
 ```
-{< pdf src="/hugo-sewing-demo/info/cv.pdf" >}
+{< pdf src="/info/cv.pdf" >}
 ```
 
 - 2 showing
-{{< pdf src="/hugo-sewing-demo/info/cv.pdf" >}}
+{{< pdf src="/info/cv.pdf" >}}
