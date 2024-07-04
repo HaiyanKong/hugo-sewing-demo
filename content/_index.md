@@ -131,6 +131,11 @@ project:
         url: "https://github.com"
 ---
 
+</br>
+
+{{< notice note>}}
+Enjoying this Hugo theme? Feel free to use it <i class="fa-brands fa-github fa-1xl" style="color: #703F88"></i></a> [HaiyanKong/hugo-sewing](https://github.com/HaiyanKong/hugo-sewing) or start with the template at <i class="fa-brands fa-github fa-1xl" style="color: #703F88"></i></a> [HaiyanKong/hugo-sewing-template](https://github.com/HaiyanKong/hugo-sewing-template).
+{{< /notice >}}
 
 
 ### News
@@ -138,4 +143,4 @@ project:
 {{< timeline date="2024/05/25" description="A test news. Your can also add [link](https://github.com) here. Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum." >}}
 {{< timeline date="2024/05/15" description="Hugo-Sewing Theme was created! A test news. Your can also add [link](https://github.com) here. Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula libero sed ultricies elementum." >}}
 
-<br>
+</br>
