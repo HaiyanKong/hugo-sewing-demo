@@ -135,6 +135,10 @@ project:
 
 {{< notice note>}}
 Enjoying this Hugo theme? Feel free to use it <i class="fa-brands fa-github fa-1xl" style="color: #703F88"></i></a> [HaiyanKong/hugo-sewing](https://github.com/HaiyanKong/hugo-sewing) or start with the template at <i class="fa-brands fa-github fa-1xl" style="color: #703F88"></i></a> [HaiyanKong/hugo-sewing-template](https://github.com/HaiyanKong/hugo-sewing-template).
+
+
+
+If you are unsure how to build a website with Hugo, you can check out these excellent tutorials: [How to Build a Website Using Hugo without Programming Skills](https://hongtaoh.com/en/2020/06/05/get-started-with-hugo/), [Create and host a blog with Hugo and GitHub Pages in less than 30 minutes](https://www.mytechramblings.com/posts/create-a-website-with-hugo-and-gh/) (or in Chinese: [如何零基础免费搭建个人网站（2024 更新版）](https://hongtaoh.com/cn/2024/03/22/personal-website-tutorial/)).
 {{< /notice >}}
 
 
