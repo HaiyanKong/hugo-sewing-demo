@@ -131,22 +131,6 @@ Suprise!
 
 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>
 
-
-## Timeline
-
-- 1 usage
-
-```
-{< timeline date="2023/12/31" description="descriptiondescri ptiondescriptiondescrip tiondescriptio n descriptiondescription descriptiondescription" >}
-
-// please use double {{ }}
-```
-
-- 2 showing
-
-{{< timeline date="2024/05/19" description="descriptiondescri ptiondescriptiondescrip tiondescriptio n descriptiondescription descriptiondescription" >}}
-{{< timeline date="2023/12/31" description="descriptio ndescri ptiondesc ription descrip" >}}
-
 ## Image Carousel
 
 - 1 usage
@@ -178,17 +162,7 @@ Suprise!
 
 ### 2 showing
 
-- 2.1 markdown
-
 <gallery>![name1](/blog/hugo-sewing1.jpg)![name2](/blog/hugo-sewing2.jpg)![name3](/blog/hugo-sewing3.jpg)</gallery>
-
-- 2.2 link
-
-<gallery>
-    <img src="https://haiyankong.github.io/project/project.png">
-	<img src="https://haiyankong.github.io/project/project.png">
-	<img src="https://haiyankong.github.io/project/project.png">
-</gallery>
 
 
 
